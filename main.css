@@ -9,3 +9,9 @@ table,th,td{
 th,td{
 	text-align:center;
 }
+/*#login{
+	display: flex;
+	flex-direction: column;
+	justify-content: right;
+	
+}*/
